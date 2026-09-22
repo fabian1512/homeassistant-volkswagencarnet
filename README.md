@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://buymeacoffee.com/fabian1512" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210"></a>
+</p>
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 ![Version](https://img.shields.io/github/v/release/robinostlund/homeassistant-volkswagencarnet)
 ![PyPi](https://img.shields.io/pypi/v/volkswagencarnet?label=latest%20pypi)
